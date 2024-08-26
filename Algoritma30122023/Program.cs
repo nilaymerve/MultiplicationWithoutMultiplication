@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 
 namespace Algoritma30122023
 {
-    /* kullanıcıdan pozitif olan max 2 basamaklı bir sayı alınacaktır. Alınan bu sayının okunuşu yazı ile yazılacaktır.
-  * 11 onbir
+   /*Calculating the result of multiplying two given numbers without using multiplication
   */
   
     internal class Program
